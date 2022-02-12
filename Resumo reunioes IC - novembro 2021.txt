@@ -1,0 +1,78 @@
+Resumo reuniao (12/11/21):
+
+- Apresentacao tecnologias front-end (Tassio, Kessia, Vitor Gomes)
+- Apresentacao powerpoint interfaces 
+
+-Proposta de trabalho para a proxima semana:
+
+Interfaces (front-end): Tassio, Vitor Gomes, Alexandre, Andreza => Triagem de dados e proposta de interfaces (web e mobile)
+
+Back-end: Alfredo Victor, Kessia => Definicao de tecnologias e frameworks (estudo, comparação, escolha?)
+
+Sistema de recomendação: Lind, Jorge => Definicao de pontos de controle (notificacoes) e apresentacao (Sistemas de recomendacao context-aware)
+
+
+Recomendacoes: 
+
+- Sejam pontuais
+- Busquem proatividade
+- Trabalhem de forma integrada com os seus colegas (UFRB, UNIFACS)
+
+
+Resumo reuniao (19/11/21):
+
+- Andamento do trabalho 
+- Apresentacao Kessia/Alfredo: Discussao MongoDB x mySQL
+- Decisao: Springboot, mySQL e JAVA
+
+Proxima semana:
+- Apresentacao Lind e Jorge
+- Kessia/Alfredo - Instalacao da infraestrutura do servidor
+
+
+Resumo reuniao (26/11/21):
+
+Apresentacao Lind/Jorge 
+	- Ilustracao da utilizacao XML x Ontologia
+	- Ilustracao das etapas de proposta do modelo computacional, modelo de pontuacao e desenvolvimento prototipo (arquitetura)
+
+Infraestrutura de execucao (Kessia/Alfredo): Pendente do contato na UFBR
+
+Proxima semana: 
+	- Apresentacao Front-End: Tassio, Vitor Gomes, Alexandre, Andreza => Definicao de ferramentas, tecnologias e telas
+
+
+Resumo Reuniao (03/12/21)
+
+Apresentacao Tassio/Victor Gomes/Andreza
+	- Proposta de telas para autenticacao e cadastro (Web e Mobile)
+	- Discussao sobre cores do aplicativo (Andreza)
+
+Para a proxima semana:
+	- Pesquisa comparativa e proposta de layout de telas (web e mobile)
+	- Proposta de telas de cadastro para dados (cadastro, consulta medica, atualizacao dados) - web e mobile
+	- Relacao dos softwares necessarios para instalacao no servidor (Backend)
+	- Marcar reuniao com Anderson
+
+	- Apresentacao Kessia/Alfredo Victor
+
+
+Resumo Reuniao (10/12/21)
+
+Decisao de estrategia para trabalho nessa semana
+
+	- Tassio, Vitor Gomes, Andreza - Definicao de layout para web e mobile, implementacao de propotipo teste para mobile (Vitor)
+
+	- Kessia/Alfredo - Criacao e acesso a Banco de Dados
+
+
+O grupo a apresentar na proxima semana ficou ainda de ser definido 
+
+Reuniao (11/02/22)
+
+Estado atual:
+- Estado da instalacao: Servidor e BD instalado
+- Utilizacao de javascript
+
+Proposta para a proxima semana: 
+- Execucao de um script simples para acesso ao BD
